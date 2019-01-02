@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TIMEAPP</string>
+    <string-array name="titles">
+        <item>TimeTable</item>
+        <item>Developers</item>
+    </string-array>
+    <string-array name="Types">
+        <item>lecture</item>
+        <item>practical</item>
+    </string-array>
+</resources>
